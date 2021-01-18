@@ -1,0 +1,28 @@
+
+#book-catalog .name {
+    font-size: 1.1rem;
+    font-weight: 400;
+   
+}
+
+#book-catalog .details {
+    font-size: 0.8rem; 
+}
+
+#book-catalog i {
+    font-size: 1.2rem;
+    margin-left: 1.2rem;
+    cursor: pointer;
+   
+}
+
+.available{
+    color: rgb(21, 153, 4);
+}
+.borrowed {
+    color: red;
+    
+}
+.remove {
+    color: rgba(20, 20, 20, 0.842);
+}
